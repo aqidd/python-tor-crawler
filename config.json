@@ -1,0 +1,4 @@
+{
+    "US": "tbody",
+    "content": "#sortable_table_global > tbody > tr:nth-child(2)"
+}
